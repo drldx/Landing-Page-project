@@ -110,3 +110,20 @@ header button{
     color: #6a6e79;
     max-width: 170px;
 }
+
+.second-section{
+    background-color: #E5E7EB;
+    padding: 150px 250px 100px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1F2937;
+}
+.quote-author{
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 80px;
+}
