@@ -49,6 +49,11 @@ header .container{
     padding: 60px 0px 100px;
     gap: 40px;
 }
+.head-text,
+.img-container{
+    align-content: center;
+    flex: 1;
+}
 header h1{
     font-size: 48px;
     color: #F9FAF8;
@@ -73,8 +78,6 @@ header button,
     cursor: pointer;
 }
 .img-container{
-    background-color: rgb(106, 110, 121);
-    width: 100%;
     display: flex;
     padding: 15px;
     justify-content: center;
